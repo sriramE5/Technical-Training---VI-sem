@@ -1,12 +1,12 @@
-# Programming Lab Solutions (C / C++ / Java / Python)
+# Technical Training Lab (C / C++ / Java / Python)
 
 This repository contains solutions for weekly programming lab exercises covering **Data Structures, Algorithms, and Programming Concepts** using **C, C++, Java, and Python**.
 
 ---
 
-# Week 1: Array Operations and Searching
+ @Week 1: Array Operations and Searching
 
-### a) Reverse an Array (C)
+### @ a) Reverse an Array (C)
 
 Reverse the elements of an array using iteration.
 
