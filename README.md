@@ -4,7 +4,7 @@ This repository contains solutions for weekly programming lab exercises covering
 
 ---
 
- # Week 1: Array Operations and Searching
+ # [Week 1: Array Operations and Searching]
 
 ### a) Reverse an Array (C)
 
@@ -12,7 +12,7 @@ Reverse the elements of an array using iteration.
 
 🔗 https://www.hackerrank.com/challenges/reverse-array-c/problem
 
-### b) Rotate Array (C)
+### b) (Rotate Array (C))
 
 Rotate an array to the right by **k steps**.
 
