@@ -6,19 +6,19 @@ This repository contains solutions for weekly programming lab exercises covering
 
  # Week 1: Array Operations and Searching
 
-### [a) Reverse an Array (C)](Week 1: Array Operations and Searching/reverseAnArray.c)
+[a) Reverse an Array (C)](Week 1: Array Operations and Searching/reverseAnArray.c)
 
 Reverse the elements of an array using iteration.
 
 🔗 https://www.hackerrank.com/challenges/reverse-array-c/problem
 
-### [b) Rotate Array (C)](Week 1: Array Operations and Searching/rotateArray.c)
+[b) Rotate Array (C)](Week 1: Array Operations and Searching/rotateArray.c)
 
 Rotate an array to the right by **k steps**.
 
 🔗 https://leetcode.com/problems/rotate-array/
 
-### [c) Search Element in Array (C)](Week 1: Array Operations and Searching/searchElementInArray.c)
+[c) Search Element in Array (C)](Week 1: Array Operations and Searching/searchElementInArray.c)
 
 Check whether an array contains a given element **X**.
 
