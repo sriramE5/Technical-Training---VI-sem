@@ -4,9 +4,9 @@ This repository contains solutions for weekly programming lab exercises covering
 
 ---
 
- @Week 1: Array Operations and Searching
+ # Week 1: Array Operations and Searching
 
-### @ a) Reverse an Array (C)
+### a) Reverse an Array (C)
 
 Reverse the elements of an array using iteration.
 
