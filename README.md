@@ -226,19 +226,19 @@ Print the required star pattern.
 
 # Week 11: String Games and Mathematical Counting
 
-### a) The Minion Game (Python)
+### [a) The Minion Game (Python)](Week-11/theMinionGame.py)
 
 Determine the winner and score of the string game.
 
 🔗 https://www.hackerrank.com/challenges/the-minion-game/problem
 
-### b) Number of Digit One (Python)
+### b)[Number of Digit One (Python)](Week-11/numberofDigitOne.py)
 
 Count how many times digit **1** appears from **0 to n**.
 
 🔗 https://leetcode.com/problems/number-of-digit-one/
 
-### c) Running Comparison (Python)
+### [c) Running Comparison (Python)](Week-11/runningComparison.py)
 
 Find days when both runners are **happy**.
 
@@ -248,19 +248,19 @@ Find days when both runners are **happy**.
 
 # Week 12: Set Operations and Mathematical Logic
 
-### a) Set Union Size (Java)
+### (a) Set Union Size (Java)](Week-12/setUnionSize.java)
 
 Find the number of elements in **A ∪ B**.
 
 🔗 https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-2/problem
 
-### b) Water and Jug Problem (Java)
+### [b) Water and Jug Problem (Java)](Week-12/waterandJugProblem.java)
 
 Solve the classic **water jug problem**.
 
 🔗 https://leetcode.com/problems/water-and-jug-problem/
 
-### c) Second Maximum of Three Numbers (Java)
+### [c) Second Maximum of Three Numbers (Java)](Week-12/secondMaximumofThreeNumbers.java)
 
 Print the **second largest** among three numbers.
 
