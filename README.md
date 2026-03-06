@@ -94,19 +94,19 @@ Find the smallest subarray whose sum ≥ target.
 
 # Week 5: Linked List Operations
 
-### a) Insert Node at Tail (C++)
+### [a) Insert Node at Tail (C++)](Week-5/insertNodeatTail.cpp)
 
 Insert a node at the **end of a linked list**.
 
 🔗 https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem
 
-### b) Minimum Operations to Sort Array (C++)
+### [b) Minimum Operations to Sort Array (C++)](Week-5/minimumOperationstoSortArray.cpp)
 
 Make an array **non-decreasing** using minimum operations.
 
 🔗 https://leetcode.com/problems/minimum-pair-removal-to-sort-array
 
-### c) Remove Duplicates from Sorted Linked List (C++)
+### c) [Remove Duplicates from Sorted Linked List (C++)](Week-5/removeDuplicatesfromSortedLinkedList.cpp)
 
 Remove duplicate elements so each appears **only once**.
 
@@ -116,19 +116,19 @@ Remove duplicate elements so each appears **only once**.
 
 # Week 6: Binary Tree and Array Problems
 
-### a) Binary Tree Preorder Traversal (C++)
+### [a) Binary Tree Preorder Traversal (C++)](Week-6/binaryTreePreorderTraversal.cpp)
 
 Perform **preorder traversal** of a binary tree.
 
 🔗 https://www.hackerrank.com/challenges/tree-preorder-traversal/problem
 
-### b) Median of Two Sorted Arrays (C++)
+### [b) Median of Two Sorted Arrays (C++)](Week-6/medianOfTwoSortedArrays.cpp)
 
 Find the **median** of two sorted arrays.
 
 🔗 https://leetcode.com/problems/median-of-two-sorted-arrays/
 
-### c) Rating in Practice (C++)
+### c) [Rating in Practice (C++)](Week-6/ratinginPractice.cpp)
 
 Check if problem difficulty sequence is **non-decreasing**.
 
@@ -138,19 +138,19 @@ Check if problem difficulty sequence is **non-decreasing**.
 
 # Week 7: Currency Formatting and Backtracking
 
-### a) Currency Formatter (Java)
+### [a) Currency Formatter (Java)](Week-7/currencyFormatter.java)
 
 Format a double value into **different country currencies**.
 
 🔗 https://www.hackerrank.com/challenges/java-currency-formatter/problem
 
-### b) N-Queens Puzzle (Java)
+### [b) N-Queens Puzzle (Java)](Week-7/n-QueensPuzzle.java)
 
 Solve the **N-Queens backtracking problem**.
 
 🔗 https://leetcode.com/problems/n-queens/
 
-### c) Maximum Pair Sum (Java)
+### [c) Maximum Pair Sum (Java)](Week-7/maximumPairSum.java)
 
 Find the maximum possible sum of **two distinct elements**.
 
