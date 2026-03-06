@@ -28,19 +28,19 @@ Check whether an array contains a given element **X**.
 
 # Week 2: Pattern Printing and String Manipulation
 
-### a) Printing Pattern (C)
+### [a) Printing Pattern (C)](Week-2/printingPattern.c)
 
 Print a numeric pattern from **1 to n**.
 
 🔗 https://www.hackerrank.com/challenges/printing-pattern-2/problem
 
-### b) Minimum Time to Make Rope Colorful (C)
+### [b) Minimum Time to Make Rope Colorful (C)](Week-2/timetoMakeRopeColorful.c)
 
 Find the minimum total time required to make the rope colorful.
 
 🔗 https://leetcode.com/problems/minimum-time-to-make-rope-colorful/
 
-### c) DNA Storage Encoding (C)
+### [c) DNA Storage Encoding (C)](Week-2/DNAStorageEncoding.c)
 
 Encode a binary string into characters **A, T, C, G**.
 
