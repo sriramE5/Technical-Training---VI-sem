@@ -50,19 +50,19 @@ Encode a binary string into characters **A, T, C, G**.
 
 # Week 3: Operator Overloading and Problem Solving
 
-### a) Matrix Addition using Operator Overloading (C++)
+### [a) Matrix Addition using Operator Overloading (C++)](Week-3/OperatorOverloading.cpp)
 
 Add two matrices using operator overloading.
 
 🔗 https://www.hackerrank.com/challenges/operator-overloading/problem
 
-### b) Largest Number from Integers (C++)
+### [b) Largest Number from Integers (C++)](Week-3/largestNumber.cpp)
 
 Arrange integers to form the **largest possible number**.
 
 🔗 https://leetcode.com/problems/largest-number/
 
-### c) Average Comparison (C++)
+### [c) Average Comparison (C++)](Week-3/averageComparison.cpp)
 
 Check if the average of **A and B** is greater than **C**.
 
@@ -72,19 +72,19 @@ Check if the average of **A and B** is greater than **C**.
 
 # Week 4: Classes, Objects, and Arrays
 
-### a) Classes and Objects (C++)
+### [a) Classes and Objects (C++)](Week-4/classesAndObjects.cpp)
 
 Perform operations using **classes and objects**.
 
 🔗 https://www.hackerrank.com/challenges/classes-objects/problem
 
-### b) Student Class Implementation (C++)
+### [b) Student Class Implementation (C++)](Week-4/studentClassImplementation.cpp)
 
 Create a class to store and display **student details**.
 
 🔗 https://www.hackerrank.com/challenges/c-tutorial-class/problem
 
-### c) Minimum Size Subarray Sum (C++)
+### [c) Minimum Size Subarray Sum (C++)](Week-4/minimumSizeSubarraySum.cpp)
 
 Find the smallest subarray whose sum ≥ target.
 
