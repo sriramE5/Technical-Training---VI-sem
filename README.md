@@ -160,19 +160,19 @@ Find the maximum possible sum of **two distinct elements**.
 
 # Week 8: Conditional Logic and Recursion
 
-### a) Java If-Else (Java)
+### [a) Java If-Else (Java)](Week-8/if-Else.java)
 
 Perform conditional actions based on integer input.
 
 🔗 https://www.hackerrank.com/challenges/java-if-else/problem
 
-### b) Generate Parentheses (Java)
+### [b) Generate Parentheses (Java)](Week-8/generateParentheses.java)
 
 Generate all valid combinations of **n pairs of parentheses**.
 
 🔗 https://leetcode.com/problems/generate-parentheses/
 
-### c) Chef Rich Problem (Java)
+### [c) Chef Rich Problem (Java)](Week-8/chefRichProblem.java)
 
 Calculate the number of years required to reach a **target wealth**.
 
@@ -182,19 +182,19 @@ Calculate the number of years required to reach a **target wealth**.
 
 # Week 9: Python List and Grid Problems
 
-### a) List Comprehension (Python)
+### [a) List Comprehension (Python)](Week-9/listComprehension.py)
 
 Generate coordinates `[i, j, k]` where the sum is not equal to **n**.
 
 🔗 https://www.hackerrank.com/challenges/list-comprehensions/problem
 
-### b) Unique Paths (Python)
+### [b) Unique Paths (Python)](Week-9/uniquePaths.py)
 
 Find the number of ways a robot can move in a grid.
 
 🔗 https://leetcode.com/problems/unique-paths/
 
-### c) Star Square Pattern (Python)
+### [c) Star Square Pattern (Python)](Week-9/starSquarePattern.py)
 
 Print a square pattern of stars.
 
@@ -204,19 +204,19 @@ Print a square pattern of stars.
 
 # Week 10: String Manipulation and Expression Evaluation
 
-### a) String Mutation (Python)
+### [a) String Mutation (Python)](Week-10/stringMutation.py)
 
 Replace a character at a specific position.
 
 🔗 https://www.hackerrank.com/challenges/python-mutations/problem
 
-### b) Reverse Polish Notation Evaluation (Python)
+### [b) Reverse Polish Notation Evaluation (Python)](Week-10/reversePolishNotationEvaluation.py)
 
 Evaluate an arithmetic expression written in **RPN**.
 
 🔗 https://leetcode.com/problems/evaluate-reverse-polish-notation/
 
-### c) Pattern Printing (Python)
+### [c) Pattern Printing (Python)](Week-10/patternPrinting.py)
 
 Print the required star pattern.
 
