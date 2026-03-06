@@ -248,7 +248,7 @@ Find days when both runners are **happy**.
 
 # Week 12: Set Operations and Mathematical Logic
 
-### (a) Set Union Size (Java)](Week-12/setUnionSize.java)
+### [(a) Set Union Size (Java)](Week-12/setUnionSize.java)
 
 Find the number of elements in **A ∪ B**.
 
